@@ -1,7 +1,7 @@
 # Counter
-###A Simple Counter 
+### A Simple Counter 
 
-##Purpose
+## Purpose
 
 To practice building **functions** in JS along with renenforcing basic fundimentals. 
 I wanted to build this project using both **.querySelector()** and the **.addEventListener()** methods
